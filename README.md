@@ -1,13 +1,13 @@
 # 🍕 Pizza Sales Analysis using MySQL
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes a pizza sales dataset using **MySQL** to extract meaningful business insights.
 The analysis covers basic, intermediate, and advanced SQL queries to understand sales performance, customer behavior, and revenue trends.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze overall sales performance
 * Identify top-performing pizzas
@@ -17,14 +17,14 @@ The analysis covers basic, intermediate, and advanced SQL queries to understand 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * MySQL
 * SQL (Joins, Aggregations, Window Functions)
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The project uses the following datasets:
 
@@ -35,7 +35,7 @@ The project uses the following datasets:
 
 ---
 
-## 🧠 Key Analysis Performed
+##  Key Analysis Performed
 
 ### 🔹 Basic Analysis
 
@@ -61,7 +61,7 @@ The project uses the following datasets:
 
 ---
 
-## 📊 Key Insights (Sample)
+##  Key Insights (Sample)
 
 * Certain pizza categories contribute significantly more to total revenue
 * Peak order hours help identify high-demand time periods
@@ -70,7 +70,7 @@ The project uses the following datasets:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 pizza-sales-analysis/
 │
@@ -83,7 +83,7 @@ pizza-sales-analysis/
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1. Import all CSV files into MySQL tables
 2. Ensure proper table relationships using keys
@@ -92,7 +92,7 @@ pizza-sales-analysis/
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 * SQL Joins (INNER JOIN)
 * Aggregate Functions (SUM, COUNT, AVG)
@@ -102,7 +102,7 @@ pizza-sales-analysis/
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how SQL can be used to analyze real-world sales data and generate actionable insights. It highlights strong foundational skills in data analysis using MySQL.
 
